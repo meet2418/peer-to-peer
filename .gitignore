@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+
+# Node
+node_modules/
+dist/
+
+# Uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
+# Added by code-review-graph
+.code-review-graph/
